@@ -1,5 +1,5 @@
 """
-torch._higher_order_ops.associative_scan import associative_scan without torch.compile
+Copy of torch._higher_order_ops.associative_scan without torch.compile
 """
 
 # mypy: allow-untyped-defs
